@@ -1,0 +1,9 @@
+Properties of the XOR gate
+For XOR gate 
+any input is 0, then the output will be the other input.
+If the input is 1, then  the other input is the complement of the other input.
+input1  input2   output
+  0        0        0
+  0        1        1
+  1        0        1
+  1        1        0
